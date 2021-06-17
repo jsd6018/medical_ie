@@ -13,7 +13,7 @@ for i in range(len(video_id)):
         transcript = YouTubeTranscriptApi.get_transcript(video_id[i])
         formatter = TextFormatter()
         text = formatter.format_transcript(transcript)
-        print("=========== FILE ", i + 1, " ===========")
+        print("=========== OBTAINING TRANSCRIPT FOR FILE ", i + 1, " ===========")
         f = open("output/video" + key[i] + ".txt", 'w')
         f.write(text)
     except Exception:
