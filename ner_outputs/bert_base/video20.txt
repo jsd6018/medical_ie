@@ -1,0 +1,1 @@
+[{'entity': 'B-PER', 'score': 0.9803778, 'index': 305, 'word': 'Pan', 'start': 1281, 'end': 1284}, {'entity': 'I-PER', 'score': 0.8526802, 'index': 306, 'word': '##tal', 'start': 1284, 'end': 1287}, {'entity': 'I-PER', 'score': 0.6689983, 'index': 307, 'word': '##one', 'start': 1287, 'end': 1290}]

@@ -1,0 +1,1 @@
+[{'entity': 'B-LOC', 'score': 0.9812175, 'index': 497, 'word': 'Minnesota', 'start': 2363, 'end': 2372}]

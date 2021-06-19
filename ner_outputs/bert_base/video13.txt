@@ -1,0 +1,1 @@
+[{'entity': 'B-MISC', 'score': 0.9927263, 'index': 419, 'word': 'Chinese', 'start': 1633, 'end': 1640}]
